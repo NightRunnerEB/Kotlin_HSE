@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "com_example_task11 API"
+  description: "com_example_task11 API"
+  version: "1.0.0"
+servers:
+- url: "https://com_example_task11"
+paths: {}
